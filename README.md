@@ -20,11 +20,11 @@ di: Contains Dagger-related classes and modules for dependency injection.
 ui: Contains user interface components such as activities, fragments, and adapters.
 utils: Contains utility classes and helper functions.
 
-###Prerequisites
+### Prerequisites
 Before running the application, ensure you have the following installed:
 Android Studio 
 
-###Getting Started
+### Getting Started
 To get started with the project, follow these steps:
 
 Clone the repository to your local machine:
@@ -40,7 +40,7 @@ Connect your Android device or start an emulator.
 
 Run the application on the connected device or emulator.
 
-##Contributing
+## Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 When contributing, please adhere to the following guidelines:

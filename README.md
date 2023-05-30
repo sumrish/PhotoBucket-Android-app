@@ -2,7 +2,7 @@
 
 This is an android mobile application project developed using JAVA as programming language and MVVM architecture, Dagger dependency injection, and observable and singleton design patterns. The frontend is implemented using ConstraintLayout for layout management.
 
-Project Overview
+## Project Overview
 The mobile application is designed to help beginners with Dagger. It follows the MVVM (Model-View-ViewModel) architectural pattern, which promotes separation of concerns and allows for easier testing and maintainability.
 
 The project utilizes Dagger for dependency injection, enabling efficient management and instantiation of dependencies. This helps to decouple components and improve modularity and scalability.
@@ -11,7 +11,7 @@ Observable and Singleton design patterns are used to handle data flow and ensure
 
 The frontend of the application is built using ConstraintLayout, a powerful layout manager that provides flexibility and responsiveness to various screen sizes and orientations.
 
-Project Structure
+## Project Structure
 The project follows a modular structure, organized into the following directories:
 
 app: Contains the main application module and entry point.
@@ -19,12 +19,12 @@ data: Contains data-related classes such as repositories, data models, and API c
 di: Contains Dagger-related classes and modules for dependency injection.
 ui: Contains user interface components such as activities, fragments, and adapters.
 utils: Contains utility classes and helper functions.
-Prerequisites
-Before running the application, ensure you have the following installed:
 
+###Prerequisites
+Before running the application, ensure you have the following installed:
 Android Studio 
 
-Getting Started
+###Getting Started
 To get started with the project, follow these steps:
 
 Clone the repository to your local machine:
@@ -40,7 +40,7 @@ Connect your Android device or start an emulator.
 
 Run the application on the connected device or emulator.
 
-Contributing
+##Contributing
 Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 When contributing, please adhere to the following guidelines:

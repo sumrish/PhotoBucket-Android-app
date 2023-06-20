@@ -1,4 +1,4 @@
-# UserPhotoBucket
+# PhotoBucket - Android application
 
 This is an android mobile application project developed using JAVA as programming language and MVVM architecture, Dagger dependency injection, and observable and singleton design patterns. The frontend is implemented using ConstraintLayout for layout management.
 
